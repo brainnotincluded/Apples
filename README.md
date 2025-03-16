@@ -1,5 +1,9 @@
 # Система отслеживания и классификации яблок
 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![Ultralytics YOLO](https://img.shields.io/badge/YOLO-v8.0.0-orange)](https://ultralytics.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-brightgreen)](https://opencv.org/)
+
 ## Обзор проекта
 Этот проект представляет собой комплексную систему для отслеживания и классификации яблок в видеопотоке. Используя современные технологии компьютерного зрения и машинного обучения, система способна в реальном времени обнаруживать яблоки, отслеживать их перемещение и классифицировать их качество.
 
